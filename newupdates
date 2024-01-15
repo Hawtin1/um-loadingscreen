@@ -1,22 +1,6 @@
-New:
-- Air Creation 582SL Motorglider - Air
-- Aerospatiale AS 332 (450 Kg) - Air
-- Augusta Westland AW109 (350 Kg) - Air
-- Bell UH-1 (250 Kg) - Air
-- TC's Chopper Magnum P.I." Civilian Vanilla Buzzard (70 Kg) - Air
-- Airbus EC-135 T2 (300 Kg)
-- Brabus G 550 Adventure - Import
-- BMW M8 SCL - Import
-- Audi RS7 MANSORY - Import
-- Ford F-150 Lightning 2023 | Electric Truck - Import
-- Jeep Grand Cherokee Demonhawk - Import
-- Rolls Royce Super Sport Concept - Import
-- Nagasaki "C" Chimera Chopper - Bikes
-- Confederate F131 Hellcat Combat - Bikes
-- Indian Chief Dark Horse - Bikes
-
 Update:
-- Brabus 6x6 (Sound/Handling/Kofferraum/Preis)
-
+- Cleanup: Alle Lagerhäuser (Janek/Benny/Alex/Kay/Patricia)  Tore/Müll entfernt etc.
+- Parkplatz überabeitet (Cypress Flats)
+- Crafting Station überarbeitet (Codewalker Spielerei) 
 Fix:
-- Fallschirmspringen vom Tower funktioniert nun.
+- Essen Animation mit Teller bleibt nicht mehr hängen.
