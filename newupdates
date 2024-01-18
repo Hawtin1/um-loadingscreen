@@ -1,6 +1,17 @@
-Update:
-- Cleanup: Alle Lagerhäuser (Janek/Benny/Alex/Kay/Patricia)  Tore/Müll entfernt etc.
-- Parkplatz überabeitet (Cypress Flats)
-- Crafting Station überarbeitet (Codewalker spielerei) 
-Fix:
-- Essen Animation mit Teller bleibt nicht mehr hängen.
+New
+- Voll funktionierende Klettermine.
+   Neue Edelsteine & Material was in der Klettermine gefunden werden kann.
+   Neues Werkzeug: Eispickel / Diamanten Spitzhacke / Kletterhacken.
+   evtl. braucht es noch ein Balance update da sehr viel Loot in der Klettermine zu finden ist, muss getestet werden damit man auch wirklich 
+   das bekommt was man einsetzt. 
+- Export für Opal / Amethyst / Quarz / Obsidian Spitzhacke / Werkzeug geadded.
+- Superfoods Stuff.
+- Bananen & Reis Feld.
+- Früchte können nun verzehrt werden. 
+Update
+- Bananen gegen Lianen getauscht Harz Feld
+- Kokosnuss Preis Ressourcen Export geändert. 
+- Nach verzehr einer Mahlzeit bekommt man einen Teller zurück.
+- Sandfeld überarbeitet. 
+- ~~Weed Schere ~~-> Schere und Rezept verändert. 
+- Loading Screen Udpate.
