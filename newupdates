@@ -1,17 +1,20 @@
-New
-- Voll funktionierende Klettermine.
-   Neue Edelsteine & Material was in der Klettermine gefunden werden kann.
-   Neues Werkzeug: Eispickel / Diamanten Spitzhacke / Kletterhacken.
-   evtl. braucht es noch ein Balance update da sehr viel Loot in der Klettermine zu finden ist, muss getestet werden damit man auch wirklich 
-   das bekommt was man einsetzt. 
-- Export für Opal / Amethyst / Quarz / Obsidian Spitzhacke / Werkzeug geadded.
-- Superfoods Stuff.
-- Bananen & Reis Feld.
-- Früchte können nun verzehrt werden. 
-Update
-- Bananen gegen Lianen getauscht Harz Feld
-- Kokosnuss Preis Ressourcen Export geändert. 
-- Nach verzehr einer Mahlzeit bekommt man einen Teller zurück.
-- Sandfeld überarbeitet. 
-- ~~Weed Schere ~~-> Schere und Rezept verändert. 
-- Loading Screen Udpate.
+**New:**
+- Fahrzeuge Import/Trucks hinzugefügt.
+- Import / Export NEU.
+- Fahrzeuge blinken nun wenn ihr stark einlenkt. 
+- AFK Cam entfernt.
+- Idle Animation überarbeitet.
+- Strasse/Dorf Mount Chiliad geadded (Tankstelle + 24/7 hinzugefügt).
+- Gameversion ist nun  - The Chop Shop (mp2023_02 ) Fahrzeuge sind im bereits beim Händler kaufbar. (PDM)
+- AI Buslinien geadded (Beta)
+
+**Update:**
+- Scripte upgedated.
+- Tankstellen upgrade Preise sowie Tank Volumen überarbeitet.
+- Lagerhaus script update (Alt entfernt).
+- Lamborghini Terzo + Lamborghini Centenario LP770-4 Performance update.
+- Klettermine Balance update
+- Metall Barren benötigen bei Maßen Crafts weniger Zeit und es können mehr hergestellt werden. (gilt nur im Hafen).
+
+**Todo**
+- Fahrzeug Crafting ist immer noch eine Baustelle
