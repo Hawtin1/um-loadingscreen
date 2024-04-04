@@ -1,20 +1,6 @@
-**New:**
-- Fahrzeuge Import/Trucks hinzugefügt.
-- Import / Export NEU.
-- Fahrzeuge blinken nun wenn ihr stark einlenkt. 
-- AFK Cam entfernt.
-- Idle Animation überarbeitet.
-- Strasse/Dorf Mount Chiliad geadded (Tankstelle + 24/7 hinzugefügt).
-- Gameversion ist nun  - The Chop Shop (mp2023_02 ) Fahrzeuge sind im bereits beim Händler kaufbar. (PDM)
-- AI Buslinien geadded (Beta)
+Fix:
+- Sicherheitsgurt in Fahrzeugen überarbeitet.
+- Sandy Vegetation entfernt (hoffe die Fps drops sind dadurch besser).
 
-**Update:**
-- Scripte upgedated.
-- Tankstellen upgrade Preise sowie Tank Volumen überarbeitet.
-- Lagerhaus script update (Alt entfernt).
-- Lamborghini Terzo + Lamborghini Centenario LP770-4 Performance update.
-- Klettermine Balance update
-- Metall Barren benötigen bei Maßen Crafts weniger Zeit und es können mehr hergestellt werden. (gilt nur im Hafen).
-
-**Todo**
-- Fahrzeug Crafting ist immer noch eine Baustelle
+Update:
+- Scully Emotes Script.
